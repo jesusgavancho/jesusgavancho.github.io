@@ -1,99 +1,14 @@
-<!--Subdomain takeover-->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Ethical Hacking Blog</title>
-  <style>
-    body {
-      background-color: #000;
-      color: #0F0;
-    }
-    .search-container {
-      margin: 20px auto;
-      max-width: 600px;
-      text-align: center;
-    }
-    .search-box {
-      background-color: #333;
-      border-radius: 5px;
-      display: inline-block;
-      padding: 10px;
-    }
-    .search-box input[type="text"] {
-      background-color: #444;
-      border: none;
-      color: #0F0;
-      padding: 10px;
-      width: 70%;
-    }
-    .search-box button {
-      background-color: #555;
-      border: none;
-      color: #0F0;
-      cursor: pointer;
-      padding: 10px;
-      width: 30%;
-    }
-    .search-results {
-      margin: 20px auto;
-      max-width: 600px;
-      text-align: left;
-    }
-    .search-results ul {
-      list-style: none;
-      padding: 0;
-    }
-    .search-results li {
-      margin-bottom: 10px;
-    }
-    .search-results a {
-      color: #0F0;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>My Ethical Hacking Blog</h1>
-  </header>
-  
-  <div class="search-container">
-    <div class="search-box">
-      <input type="text" id="search-input" placeholder="Search...">
-      <button id="search-button">Go</button>
-    </div>
-  </div>
-<div class="search-container">
-  <input type="text" id="search-bar" placeholder="Search...">
-  <button id="search-button">Search</button>
-</div>
-
-<div class="writeups-container">
-  <ul id="writeups-list">
-    <li>Writeup 1</li>
-    <li>Writeup 2</li>
-    <li>Writeup 3</li>
-    <li>Writeup 4</li>
-    <li>Writeup 5</li>
-  </ul>
-</div>
-<script>
-const searchButton = document.getElementById('search-button');
-const searchBar = document.getElementById('search-bar');
-const writeupsList = document.getElementById('writeups-list').getElementsByTagName('li');
-
-searchButton.addEventListener('click', () => {
-  const searchTerm = searchBar.value.toLowerCase();
-
-  for (let i = 0; i < writeupsList.length; i++) {
-    const writeupText = writeupsList[i].textContent.toLowerCase();
-
-    if (writeupText.includes(searchTerm)) {
-      writeupsList[i].style.display = 'block';
-    } else {
-      writeupsList[i].style.display = 'none';
-    }
-  }
-});
-</script>
+<html> 
+  <head> 
+    <title>About _Jesus Gavancho_</title> 
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+    <link rel="stylesheet" type="text/css" href="index.css">
+  </head> 
+  <body> 
+    <script type="text/javascript" src="index.js"> 
+    </script> 
+    <div id="console"></div> 
+    <script type="text/javascript", src="index2.js">
+    </script>
+  </body> 
+</html>
