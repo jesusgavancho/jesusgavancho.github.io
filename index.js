@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=4;
-Typer.file="MRZT.txt";
+Typer.file="wittyAle.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
