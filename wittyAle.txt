@@ -15,8 +15,10 @@ Type [cmds] to see all of the available commands.
 <span id="a">\\Root\ATL-srg\witty&gt;</span><span id="b">About me</span>
 Receiving submited information...
 <span style="color: transparent">CEEFHNTAKSCDFEETEIGTATIERFEDNSPNOACTSHEONESILNFNKATTSEAA</span>
-Hello, I'm Jesus Gavancho. Currently, learning ethical hacking at Tryhackme Platform. <span id="c" onclick="copyToClipboard('Jesus Herbert Gavancho Vasquez')">LinkedIn</span> and enjoys playing CTF.
-I'd like to help companies from cyber attacks :) <span id="c"><a href="https://github.com/jesusgavancho" target="_blank">My Github profile</a></span>
+Hello, I'm Jesus Gavancho. Currently, learning ethical hacking at Tryhackme Platform and enjoys playing CTF.
+I'd like to help companies from cyber attacks :) <span id="c">
+<a href="https://www.linkedin.com/in/jesus-herbert-gavancho-vasquez-275440214/" target="_blank">My LinkedIn profile</a></span>
+<a href="https://github.com/jesusgavancho" target="_blank">My Github profile</a></span>
 Want to know me more? then let us be friends!
 &nbsp;
 <span id="a">\\Root\ATL-srg\witty&gt;</span><span id="b">view prof.json</span>
