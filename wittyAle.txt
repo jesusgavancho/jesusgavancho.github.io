@@ -7,7 +7,7 @@ Press [ESC] to exit
 <span id="a">\\Root\ATL-srg&gt;</span><span id="b">login wittyAle</span>
 &nbsp;
 Enter Your Username: witty
-Enter Your Password: *****************************
+Enter Your Password: ****************************
 <span style="color: transparent">QWx3YXlzIGxlYXJuaW5nIQ==</span>
 Login session was successful. <span id="k">Welcome, witty!</span>
 Type [cmds] to see all of the available commands.
