@@ -1,0 +1,42 @@
+----------------------------------------------------
+WELCOME TO MY PAGE
+----------------------------------------------------
+&nbsp;
+Press [ESC] to exit
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b">login wittyAle</span>
+&nbsp;
+Enter Your Username: witty
+Enter Your Password: *********
+<span style="color: transparent">QWx3YXlzIGxlYXJuaW5nIQ==</span>
+Login session was successful. <span id="k">Welcome, witty!</span>
+Type [cmds] to see all of the available commands.
+&nbsp;
+<span id="a">\\Root\ATL-srg\witty&gt;</span><span id="b">About me</span>
+Receiving submited information...
+<span style="color: transparent">CEEFHNTAKSCDFEETEIGTATIERFEDNSPNOACTSHEONESILNFNKATTSEAA</span>
+Hello, I'm Jesus Gavancho. Currently, learning ethical hacking at Tryhackme Platform. <span id="c" onclick="copyToClipboard('Jesus Herbert Gavancho Vasquez')">LinkedIn</span> and enjoys playing CTF.
+I'd like to help companies from cyber attacks :) <span id="c"><a href="https://github.com/jesusgavancho" target="_blank">My Github profile</a></span>
+Want to know me more? then let us be friends!
+&nbsp;
+<span id="a">\\Root\ATL-srg\witty&gt;</span><span id="b">view prof.json</span>
+{
+    UE4/5: "<span id="c">Ethical Hacker </span>",
+    Britanico: "<span id="c">Advanced English VI</span>",
+    USIL: "<span id="c">Systems Engineer</span>",
+    Sololearn: "<span id="c">Programming</span>",
+    TryHackme: "<span id="c">RED TEAMER</span>",
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\witty&gt;</span><span id="b">view links.json</span>
+{
+    Discord: "<span id="c">wittyale#9652</span>",
+    GitHub: "<span id="c">jesusgavancho</span>",
+    Email: "<span id="c">jesusherbert98@gmail.com</span>"
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\witty&gt;</span><span id="b">logout</span>
+<span style="color: transparent">Thx for visiting</span>
+Successfully logged out! Hope you have a wonderful day!
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
